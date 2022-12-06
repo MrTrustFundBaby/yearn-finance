@@ -7,6 +7,10 @@
 [![Production Build Deployment](https://github.com/iearn-finance/yearn-finance/workflows/Production%20Build%20Deployment/badge.svg)](https://github.com/iearn-finance/yearn-finance/actions?query=workflow%3A%22Production+Build+Deployment%22)
 [![Styled With Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io/)
 
+[![I3C Insured](https://img.shields.io/static/v1?label=Insured%20by&message=i3c&color=blue&style=for-the-badge)](https://i3c.insure/)
+
+
+
 ## Helpful links
 
 - 🌐 [Live site](https://yearn.finance)
